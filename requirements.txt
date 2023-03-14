@@ -1,0 +1,6 @@
+fastapi
+pydantic
+uvicorn[standard]
+mysql-connector-python
+requests
+BeautifulSoup4
